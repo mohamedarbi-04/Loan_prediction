@@ -10,6 +10,16 @@ Financial institutions process thousands of loan applications daily. This projec
 
 ---
 
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![XGBoost](https://img.shields.io/badge/XGBoost-2.x-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-F7931E?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13-blue)
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -99,36 +109,6 @@ XGBClassifier(
 
 > Threshold was tuned using the precision-recall curve on out-of-fold predictions to maximise F1-score.
 
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![XGBoost](https://img.shields.io/badge/XGBoost-2.x-orange)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-F7931E?logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.13-blue)
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/loan-approval-prediction.git
-cd loan-approval-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch the notebook
-jupyter notebook loan_prediction.ipynb
-```
-
----
-
-## 👤 Author
-
-**[Your Name]** — Associate Data Scientist  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)
